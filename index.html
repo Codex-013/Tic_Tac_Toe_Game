@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="theme-color" content="#252A34">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <title>Tic_Tac-Toe_Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main>
+        <h2>Tic Tac Toe</h2>
+
+        <div class="mode-choice-container">
+            <h3>Select Game Mode</h3>
+            <button id="choose-ai">AI Player</button>
+            <button id="choose-two-player">Two Player</button>
+        </div>
+
+        <div class="ai-difficulty-container hide">
+            <h3>Choose AI Difficulty</h3>
+            <button id="level-easy">Easy</button>
+            <button id="level-medium">Medium</button>
+            <button id="level-hard">Hard</button>
+        </div>
+
+        <div class="player-choice-container hide">
+            <h3>Choose your player</h3>
+            <button id="choose-x">Play as X</button>
+            <button id="choose-o">Play as O</button>
+        </div>
+
+        <h3 id="H1">Turn</h3> <h3 id="H2">For</h3>
+        <div class="turn-container hide">
+            <div class="turn-box align">X</div>
+            <div class="turn-box align">O</div>
+            <div class="bg"></div>
+        </div>
+        <div class="scoreboard hide">
+            <span id="score-x">X: 0</span>
+            <span id="score-o">O: 0</span>
+            <span id="score-draw">Draws: 0</span>
+        </div>
+        <div class="container hide">
+            <div class="game">
+                <button class="box "></button>
+                <button class="box"></button>
+                <button class="box"></button>
+                <button class="box"></button>
+                <button class="box"></button>
+                <button class="box"></button>
+                <button class="box"></button>
+                <button class="box"></button>
+                <button class="box"></button>
+            </div>
+        </div>
+        <div class="msg-container hide">
+            <p id="msg">Winner</p>
+        </div>
+        <div class="button hide">
+            <button id="home-btn">Home</button>
+            <button id="new-btn">New Game</button>
+            <button id="reset-btn">Reset Game</button>
+            <button id="reset-score-btn">Reset Score</button>
+        </div>
+    </main>
+    <script src="app.js"></script>
+</body>
+</html>
