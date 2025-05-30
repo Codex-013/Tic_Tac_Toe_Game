@@ -179,18 +179,6 @@ h2:hover {
 }
 
 /* styling for turn section */
-h3 {
-    display: inline;
-}
-
-#H1 {
-    color: #08D9D6;
-}
-
-#H2 {
-    color: #FF2E63;
-}
-
 .turn-container {
     width: 170px;
     height: 80px;

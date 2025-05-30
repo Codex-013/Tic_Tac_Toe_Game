@@ -26,10 +26,6 @@ let playerChoiceContainer = document.querySelector(".player-choice-container");
 let chooseXBtn = document.querySelector("#choose-x");
 let chooseOBtn = document.querySelector("#choose-o");
 
-// Select the "Turn" and "For" h3 elements
-let H1Elem = document.querySelector("#H1");
-let H2Elem = document.querySelector("#H2");
-
 // All general game elements that need to be hidden/shown together
 let gameContainers = document.querySelectorAll("#H1, #H2, .turn-container, .scoreboard, .container, .msg-container, .button");
 
