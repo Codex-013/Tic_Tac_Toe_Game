@@ -2,6 +2,9 @@
 
 A modern and interactive Tic Tac Toe game built with HTML, CSS, and JavaScript. Play against an AI with different difficulty levels or challenge a friend in two-player mode! The game is fully responsive and works great on both desktop and mobile devices.
 
+## 🎮 Play Now!
+
+[Play Tic Tac Toe Game](https://procoder013.github.io/Tic_Tac_Toe_Game/)
 
 ## �� Features
 
@@ -68,7 +71,11 @@ The game is fully optimized for mobile devices with:
 - Touch Event Support
 
 ## 📦 Installation
-if you want to run it locally:
+
+You can play the game directly in your browser by visiting:
+[Play Tic Tac Toe Game](https://procoder013.github.io/Tic_Tac_Toe_Game/)
+
+Or if you want to run it locally:
 
 1. Download the repository
 2. Open `index.html` in your web browser
@@ -113,4 +120,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 For any questions or suggestions, please open an issue in the repository.
 
 ---
-Made with ❤️ by shubham suryawanshi
+Made with ❤️ by [Your Name] 
