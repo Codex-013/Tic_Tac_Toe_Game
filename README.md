@@ -1,8 +1,12 @@
 # Tic Tac Toe Game
 
-A modern and interactive Tic Tac Toe game built with HTML, CSS, and JavaScript. Play against an AI with different difficulty levels or challenge a friend in two-player mode!
+A modern and interactive Tic Tac Toe game built with HTML, CSS, and JavaScript. Play against an AI with different difficulty levels or challenge a friend in two-player mode! The game is fully responsive and works great on both desktop and mobile devices.
 
-## 🎮 Features
+## 🎮 Play Now!
+
+[Play Tic Tac Toe Game](https://procoder013.github.io/Tic_Tac_Toe_Game/)
+
+## �� Features
 
 ### Game Modes
 - **AI Player**: Play against a computer opponent
@@ -20,12 +24,26 @@ A modern and interactive Tic Tac Toe game built with HTML, CSS, and JavaScript. 
 - Visual feedback for winning moves
 - Animated turn indicator
 - Responsive design
+- Mobile-friendly interface
+- Touch-optimized controls
+- Works on all screen sizes
 
 ### Controls
 - **New Game**: Start a new game
 - **Reset Game**: Clear the current game
 - **Reset Score**: Reset all scores
 - **Home**: Return to game mode selection
+
+## 📱 Mobile Support
+
+The game is fully optimized for mobile devices with:
+- Responsive layout that adapts to any screen size
+- Touch-friendly buttons and controls
+- Optimized game board size for mobile screens
+- Vertical layout for controls on smaller screens
+- No text selection or unwanted zooming
+- Smooth animations and transitions
+- Works in both portrait and landscape modes
 
 ## 🚀 How to Play
 
@@ -47,22 +65,20 @@ A modern and interactive Tic Tac Toe game built with HTML, CSS, and JavaScript. 
 ## 🛠️ Technologies Used
 
 - HTML5
-- CSS3
+- CSS3 (with Media Queries for Responsive Design)
 - JavaScript (ES6+)
+- Mobile-First Approach
+- Touch Event Support
 
 ## 📦 Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/Tic_Tac_Toe_Game.git
-```
+You can play the game directly in your browser by visiting:
+[Play Tic Tac Toe Game](https://procoder013.github.io/Tic_Tac_Toe_Game/)
 
-2. Navigate to the project directory:
-```bash
-cd Tic_Tac_Toe_Game
-```
+Or if you want to run it locally:
 
-3. Open `index.html` in your web browser
+1. Download the repository
+2. Open `index.html` in your web browser
 
 ## 🎯 Game Rules
 
@@ -104,4 +120,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 For any questions or suggestions, please open an issue in the repository.
 
 ---
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Your Name] 
