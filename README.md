@@ -4,8 +4,7 @@ A modern and interactive Tic Tac Toe game built with HTML, CSS, and JavaScript. 
 
 ## 🎮 Play Now!
 
-[Play Tic Tac Toe Game](https://procoder013.github.io/Tic_Tac_Toe_Game/)
-
+[Play Tic Tac Toe Game]
 ## �� Features
 
 ### Game Modes
